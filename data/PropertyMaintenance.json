@@ -1,0 +1,66 @@
+[
+  {
+    "hotel_id": 1, 
+    "hotel": "Oceanview Inn",
+    "source": "staff",
+    "date": "2024-05-10",
+    "details": "The air conditioning (A/C) unit in room 105 is malfunctioning and making a loud noise. This needs maintenance attention.",
+    "room_number": 105
+  },
+  {
+    "hotel_id": 1, 
+    "hotel": "Oceanview Inn",
+    "source": "customer",
+    "date": "2024-06-15",
+    "details": "The digital key system failed to work properly on multiple occasions during my stay in room 220.",
+    "room_number": 220
+  },
+  {
+    "hotel_id": 1, 
+    "hotel": "Oceanview Inn",
+    "source": "staff",
+    "date": "2024-05-12",
+    "details": "Housekeeping reported that the TV in room 312 is not working. Needs to be checked and possibly replaced.",
+    "room_number": 312
+  },
+  {
+    "hotel_id": 1, 
+    "hotel": "Oceanview Inn",
+    "source": "staff",
+    "date": "2024-06-18",
+    "details": "Reported issue with the thermostat in room 210. Maintenance needs to check the HVAC system.",
+    "room_number": 210
+  },
+  {
+    "hotel_id": 1, 
+    "hotel": "Oceanview Inn",
+    "source": "customer",
+    "date": "2024-07-30",
+    "details": "Guest in room 401 reported that the mini-fridge is not cooling properly.",
+    "room_number": 401
+  },
+  {
+    "hotel_id": 13, 
+    "hotel": "Seaside Luxury Resort",
+    "source": "customer",
+    "date": "2024-05-12",
+    "details": "Guest in room 220 reported that the air conditioning is not cooling properly.",
+    "room_number": 220
+  },
+  {
+    "hotel_id": 13, 
+    "hotel": "Seaside Luxury Resort",
+    "source": "customer",
+    "date": "2024-07-12",
+    "details": "Guest in room 420 reported that the TV is not functioning. Needs to be checked and possibly replaced.",
+    "room_number": 420
+  },
+  {
+    "hotel_id": 13, 
+    "hotel": "Seaside Luxury Resort",
+    "source": "staff",
+    "date": "2024-06-12",
+    "details": "Guest reported that the thermostat in room 110 is not functioning.",
+    "room_number": 110
+  }
+]

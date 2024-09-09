@@ -31,3 +31,6 @@ In summary, the process of logistic regression produces a logistic function that
 
     ![The import option is displayed.](media/import-notebook.png)
 
+6. At the top of the imported notebook, select the Apache Spark pool you created and execute each cell of the notebook. Feel free to read the associated learning material to learn more about each step.
+
+    ![The Apache Spark pool is selected.](media/select-spark-pool.png)

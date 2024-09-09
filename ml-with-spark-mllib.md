@@ -25,7 +25,7 @@ In summary, the process of logistic regression produces a logistic function that
 
 3. Select **Review + create**, then **Review** to create the spark pool.
 
-4. Open the <a href="ML-with-Spark-MLlib.ipynb" target="_blank">ML-with-Spark-MLlib.ipynb</a> notebook and select the **Download raw file** option to save it to your desktop on the lab VM.
+4. Open the [ML-with-Spark-MLlib.ipynb](ML-with-Spark-MLlib.ipynb){:target="_blank"} notebook and select the **Download raw file** option to save it to your desktop on the lab VM.
 
 5. In Synapse Studio, select **Develop** in the left-hand menu, select the **+** button at the top, then select **Import** to browse to the downloaded notebook.
 
